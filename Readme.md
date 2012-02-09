@@ -10,7 +10,7 @@ Create an app on Deezer website and save your app id and app secret in DEEZER_AP
 Then run 
 
 ````bash
-bundle install&nbsp;
+bundle install
 rails s
 ````
 
