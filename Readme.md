@@ -8,8 +8,9 @@ https://github.com/geoffroymontel/omniauth-deezer
 Create an app on Deezer website and save your app id and app secret in DEEZER_APP_ID and DEEZER_APP_SECRET environment variables. The domain should be localhost.
 
 Then run 
+
 ````bash
-bundle install
+bundle install&nbsp;
 rails s
 ````
 
