@@ -63,7 +63,7 @@ GEM
     omniauth (1.0.2)
       hashie (~> 1.2)
       rack
-    omniauth-deezer (0.1.0)
+    omniauth-deezer (0.2.0)
       faraday
       omniauth (~> 1.0.0)
     polyglot (0.3.3)
@@ -118,7 +118,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
-  omniauth-deezer
+  omniauth-deezer (>= 0.2.0)
   rails (= 3.2.1)
   sass-rails (~> 3.2.3)
   sqlite3
